@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/68070580/132366131-07f1b293-ade4-44a2-ae54-ebb6267243a5.png)
-<h1 align="center">Hi 👋, I'm Victor Nwaonicha</h1>
-<h3 align="center">I'm currently a student at ALX Holberton School of Software Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg">
+<h1 align="center">Hi, I'm Victor Nwaonicha</h1>
+<h3 align="center">I am currently a student at ALX Holberton School of Software Engineering</h3>
+<img align="right" alt="Coding" width="400" src="https://esource-malaysia.com/wp/wp-content/uploads/2022/01/python.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victornwaonicha&label=Profile%20views&color=0e75b6&style=flat" alt="victornwaonicha" /> </p>
 
