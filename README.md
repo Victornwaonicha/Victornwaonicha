@@ -2,7 +2,8 @@
 
 ## Full Stack Software Engineer
 
-Welcome to my GitHub profile! I am a highly motivated Full Stack Software Engineer with a passion for creating innovative and efficient solutions. My skills encompass the entire software development lifecycle, from front-end design to back-end systems.
+Welcome to my GitHub profile! 
+I am a highly motivated Full Stack Software Engineer with a passion for creating innovative and efficient solutions. My skills encompass the entire software development lifecycle, from front-end design to back-end systems.
 
 
 ### Open for Opportunities
